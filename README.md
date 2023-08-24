@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praneel Bora</h1>
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/praneelbora/Inventory_Management)
+
+- 🔭 I’m currently working on [**Inventory Management System**](https://github.com/praneelbora/Inventory_Management)
 
 - 🌱 I’m currently learning **Game Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/praneelbora](https://github.com/praneelbora)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
