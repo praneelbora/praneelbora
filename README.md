@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praneel Bora</h1>
-- 🔭 I’m currently working on [Python Project (Ludo Game)](https://github.com/praneelbora/Ludo)
+- 🔭 I’m currently working on [Inventory Management System](https://github.com/praneelbora/Inventory_Management)
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Game Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/praneelbora](https://github.com/praneelbora)
 
