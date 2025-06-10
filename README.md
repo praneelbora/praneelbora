@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneel Bora</h1>
 
-- 🔭 I’m currently working on [**Inventory Management System**](https://github.com/praneelbora/Inventory_Management)
+- 🔭 I’m currently working on Jumbl
 
 - 🌱 Exploring **App Dev**
 
